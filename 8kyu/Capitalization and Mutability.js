@@ -4,4 +4,5 @@ function capitalizeWord(word) {
   let newWord = firstChar + remainingChars;
   return newWord;
 }
+
 console.log(capitalizeWord("this is a test."));
